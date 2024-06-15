@@ -83,6 +83,6 @@ public class Client {
     }
 
     public enum Location {
-        KYIV, LVIV, KHARKIV
+        KYIV, LVIV, KHARKIV, UNKNOWN
     }
 }
